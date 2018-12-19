@@ -1,0 +1,3 @@
+jmeter -Jjmeter.save.saveservice.output_format=xml 
+  -n -t C:/Users/IDC-18/Desktop/test.jmx 
+    -l C:/Users/IDC-18/Desktop/JMeter.jtl
